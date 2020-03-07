@@ -11,3 +11,4 @@ git reset
 git branch
 git merge
 pull requests
+git blame
