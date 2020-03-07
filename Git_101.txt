@@ -1,0 +1,13 @@
+Learning how to use GitHub
+
+git clone
+git add
+git commit
+git status
+it push
+git pull
+git log
+git reset
+git branch
+git merge
+pull requests
